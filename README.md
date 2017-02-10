@@ -27,6 +27,9 @@ if Polymer.dom is set to 'shady' (the default).
 
 You can adjust this setting in src/index.js.
 
+See the visual results by looking at [Issue #1](https://github.com/pzingg/hot-example/issues/1)
+in the Github repository
+
 
 ## Colophon
 
