@@ -1,0 +1,16 @@
+body {
+    padding: 50px;
+    font-family: sans-serif;
+}
+
+.center {
+    text-align: center;
+}
+
+.wrapper {
+    text-align: left;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
